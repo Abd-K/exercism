@@ -1,9 +1,7 @@
-package test.java;
 
-import main.java.Greeter;
 import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
+import static org.testng.Assert.assertEquals;
 
 
 public class GreeterTest {
