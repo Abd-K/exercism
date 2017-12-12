@@ -8,10 +8,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../.idea/modules.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/ReverseString.class" afterPath="$PROJECT_DIR$/out/production/classes/ReverseString.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ReverseString.java" afterPath="$PROJECT_DIR$/src/main/java/ReverseString.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ReverseStringTest.java" afterPath="$PROJECT_DIR$/src/test/java/ReverseStringTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../two-fer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../two-fer/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -40,8 +39,8 @@
       <file leaf-file-name="ReverseString.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -601,14 +600,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513035739495</updated>
-      <workItem from="1513035807315" duration="1073000" />
+      <workItem from="1513035807315" duration="1221000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReverseStringTest - 2017.12.11 at 23h 58m 39s.xml">
-      <configuration name="ReverseStringTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReverseStringTest - 2017.12.11 at 23h 58m 52s.xml">
       <configuration name="ReverseStringTest" configurationId="JUnit" />
     </history-entry>
@@ -636,9 +632,12 @@
     <history-entry file="ReverseStringTest - 2017.12.12 at 00h 01m 11s.xml">
       <configuration name="ReverseStringTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ReverseStringTest - 2017.12.12 at 00h 04m 34s.xml">
+      <configuration name="ReverseStringTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1073000" />
+    <option name="totallyTimeSpent" value="1221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -680,6 +679,9 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="2" />
@@ -712,8 +714,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
